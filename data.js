@@ -14,14 +14,16 @@ window.PORTFOLIO_DATA = {
         // =========================
 
         {
-            id: "quiz-1",
-            sec: "quiz",
-            cat: "Quiz",
-            title: "Quiz 1",
-            name: "Quiz.png",
-            type: "image/png",
-            size: 0,
-            path: "files/quiz/Quiz.png"
+            {
+    id: "quiz-1",
+    sec: "quiz",
+    cat: "Quiz",
+    title: "Quiz 1",
+    name: "Quiz.png(1).jfif",
+    type: "image/jpeg",
+    size: 0,
+    path: "files/quiz/Quiz.png(1).jfif"
+}
         },
 
 
