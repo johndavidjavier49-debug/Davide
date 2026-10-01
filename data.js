@@ -21,7 +21,7 @@ window.PORTFOLIO_DATA = {
             name: "Quiz.png",
             type: "image/png",
             size: 0,
-            path: blob:https://www.facebook.com/9f9d3ab2-4f74-4915-b0e3-c15b27bc0c13
+            path: blob9f9d3ab2-4f74-4915-b0e3-c15b27bc0c13
         },
 
 
