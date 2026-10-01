@@ -19,9 +19,9 @@ window.PORTFOLIO_DATA = {
             cat: "Quiz",
             title: "Quiz 1",
             name: "Quiz.png",
-            type: "png",
-            size: 0,
-            path: blob9f9d3ab2-4f74-4915-b0e3-c15b27bc0c13
+            type: "image/png",
+            size: 657380,
+            path: "files/quiz/Quiz.png"
         },
 
 
@@ -57,7 +57,7 @@ window.PORTFOLIO_DATA = {
             title: "DCIT 26 - Activity 1",
             name: "DCIT 26_ Activity 1.docx.pdf",
             type: "application/pdf",
-            size: 0,
+            size: 1597526,
             path: "files/activity/DCIT 26_ Activity 1.docx.pdf"
         },
 
@@ -68,7 +68,7 @@ window.PORTFOLIO_DATA = {
             title: "DCIT 26 - Activity 2",
             name: "DCIT26_ Act 2.docx.pdf",
             type: "application/pdf",
-            size: 0,
+            size: 549742,
             path: "files/activity/DCIT26_ Act 2.docx.pdf"
         },
 
