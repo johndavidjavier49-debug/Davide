@@ -19,7 +19,7 @@ window.PORTFOLIO_DATA = {
             cat: "Quiz",
             title: "Quiz 1",
             name: "Quiz.png",
-            type: "image/png",
+            type: "png",
             size: 0,
             path: blob9f9d3ab2-4f74-4915-b0e3-c15b27bc0c13
         },
