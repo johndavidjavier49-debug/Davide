@@ -72,6 +72,7 @@ window.PORTFOLIO_DATA = {
             type: "application/pdf",
             size: 0,
             path: "files/activity/DCIT26_ Act 2.docx.pdf"
+            DCIT26_%20Act%202.docx.pdf
         },
 
 
