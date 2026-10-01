@@ -21,7 +21,7 @@ window.PORTFOLIO_DATA = {
             name: "Quiz.png",
             type: "image/png",
             size: 657380,
-            path: blob:https: e7e26d64-dba0-436e-aefc-7a38137dc7e4
+            path: QUIZ.PNG
         },
 
 
